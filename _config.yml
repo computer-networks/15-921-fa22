@@ -1,0 +1,14 @@
+title: 15-744 / Graduate Computer Networks
+email: sherry@cs.cmu.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  lorem ipsum
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lipsum
+github_username:  lipsum
+
+# Build settings
+markdown: kramdown
+#theme: cmu
+collections:
+
